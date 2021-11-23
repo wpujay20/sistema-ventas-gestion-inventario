@@ -1,0 +1,47 @@
+.cuerpo{
+    margin: 30px 10px;
+    padding: 10px;
+    background: whitesmoke;
+    height: auto;
+    color:black;
+}
+
+.mensaje{
+    text-align: center;
+}
+
+.pie{
+            position: fixed;
+            bottom: 0px;
+            width: 100%;
+            font-size: 0.8em;
+            margin-bottom: 15px;
+            padding: 15px;
+            height: 5%;
+            background: rgb(8, 134, 134);
+            color: white;
+}
+
+.logo{
+    position: relative;
+    margin-bottom: 10px;
+}
+
+
+.logo img{
+    position: absolute;
+    right: 0;
+    width: 10%;
+    height: auto;
+}
+
+.zonaBotones{
+    margin: 20px;
+
+}
+
+.cuerpo{
+    margin: 50px;
+}
+
+
